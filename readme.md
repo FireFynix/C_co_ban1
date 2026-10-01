@@ -1,8 +1,8 @@
 <!--
 File: readme.md
-Author: [Your Name]
-Created on: [Date]
-Description: [Brief description of the file's purpose]
+Author: [Khiem]
+Created on: [01/10/2026]
+Description: [Homework no 2]
 -->
 
 ## Important: Please Add Your Own Report
@@ -22,3 +22,6 @@ For the revision task, please refer to: [revision.md](revision.md).
 ---
 
 # Week 2 Report
+## PHẦN 2: BÁO CÁO LÝ THUYẾT
+### Mục 1: Biến & Hằng số
+
