@@ -8,7 +8,7 @@ int main()
     unsigned short d = 128;
     char str[] = "Hello World!";
     printf("%d\n", a);
-    printf("%f\n", b);
+    printf("%.4f\n", b);
     printf("%c\n", c);
     printf("%hu\n", d);
     printf("%s\n", str);
