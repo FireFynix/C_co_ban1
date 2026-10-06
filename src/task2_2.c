@@ -11,7 +11,7 @@ int main()
     printf("%-20s%s\n", "Author:", "Tran Quang Huy");
     printf("%-20s%s\n", "Size:", "4KB");
     printf("\n");
-    printf("Metadata\n");
+    printf("Metadata:\n");
     printf("%-20s%s\n", "Date created:", "19/03/2024");
     printf("%-20s%s\n", "Date modified:", "20/03/2024");
     return 0;
