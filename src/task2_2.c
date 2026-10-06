@@ -5,7 +5,7 @@ int main()
     printf("========================================\n");
     printf("%25s\n", "FILE REPORT");
     printf("========================================\n");
-    printf("%-20s%X\n", "FIle address:", 4152963);
+    printf("%-20s%X\n", "File address:", 4152963);
     printf("%-20s%s\n", "Path:", "C:\\User\\Administrator\\Downloads\\file.txt");
     printf("%-20s%s\n", "Content:", "\"Hello World!\"");
     printf("%-20s%s\n", "Author:", "Tran Quang Huy");
